@@ -1,5 +1,5 @@
 ### ☁️ GCP Certificate
-![GCP](Courses/GCP_Certificate.png)
+![GCP](./GCP_Certificate.png)
 
 ### 📊 Tableau Certificate
-![Tableau](./Courses/Tableau_Certificate.png)
+![Tableau](./Tableau_Certificate.png)
