@@ -4,8 +4,11 @@
 # 2. ☁️ Azure Fundamentals Certificate
 ![Azure](./Azure%20Fundamentals_Certificate.png)
 
-# 3. ➕ Excel Certificate
+# 3. ☁️ AWS Certificate
+![AWS](./Aws_Certification.png)
+
+# 4. ➕ Excel Certificate
 ![Excel](./Excel_Certificate.jpg)
 
-# 4. 📊 Tableau Certificate
+# 5. 📊 Tableau Certificate
 ![Tableau](./Tableau_Certificate.png)
